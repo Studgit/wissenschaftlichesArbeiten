@@ -1,5 +1,5 @@
 # Hello, World! 
-![Helloworldscreen](/Users/d-pop/Pictures/BA.png)
+![Helloworldscreen](main/helloworldscreen.PNG)
 
 ## Prerequisites
 java installed.
