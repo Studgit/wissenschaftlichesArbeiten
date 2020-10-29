@@ -1,5 +1,5 @@
 # Hello, World! 
-![GitHub Logo](/Users/d-pop/Pictures/BA.png)
+![Helloworldscreen](/Users/d-pop/Pictures/BA.png)
 
 ## Prerequisites
 java installed.
